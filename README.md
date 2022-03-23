@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brijesh Kori</h1>
 <h3 align="center">Learning about Cloud Native and Devops</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116">
+<img align="right" alt="Coding" width="400" src="http://4.bp.blogspot.com/_sPiRkVGOQL4/SZLYVSd87fI/AAAAAAAABFI/1cpAiRq619k/s1600/Student%20on%20Computer.gif">
 
 
 <p align="left"> <a href="https://twitter.com/brijeshkori22" target="blank"><img src="https://img.shields.io/twitter/follow/brijeshkori22?logo=twitter&style=for-the-badge" alt="brijeshkori22" /></a> </p>
