@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/brijeshkori22" target="blank"><img src="https://img.shields.io/twitter/follow/brijeshkori22?logo=twitter&style=for-the-badge" alt="brijeshkori22" /></a> </p>
 
-- 🔭 I’m currently working on **CI/CD projects**
+- 🔭 I’m currently working as  **DevOps Engineer**
 
 - 🌱 I’m currently learning **Cloud Native**
-
-- 🤝 I’m looking for help with **DEVOPS**
 
 - 💬 Ask me about **Kubernetes,Docker,AWS,Android**
 
