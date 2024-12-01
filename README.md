@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as  **DevOps Engineer**
 
-- 🌱 I’m currently learning **Cloud Native**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Kubernetes,Docker,AWS,Android**
+- 💬 Ask me about **MERN,Kubernetes,Docker,AWS**
 
 - 📫 How to reach me **brijeshkori22@gmail.com**
 
