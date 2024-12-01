@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brijesh Kori</h1>
-<h3 align="center">Learning about Cloud Native and Devops</h3>
+<h3 align="center">Learning about Full Stack and Devops</h3>
 <img align="right" alt="Coding" width="400" src="http://4.bp.blogspot.com/_sPiRkVGOQL4/SZLYVSd87fI/AAAAAAAABFI/1cpAiRq619k/s1600/Student%20on%20Computer.gif">
 
 
